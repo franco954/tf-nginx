@@ -17,7 +17,7 @@ variable "secret_key" {
 
 variable "ami_id" {
     description = "ID de la AMI amazon linux"
-    default = "ami-012967cc5a8c9f891"
+    default = "ami-o440d3b780d96b29d"
 }
 
 variable "instance_type" {
